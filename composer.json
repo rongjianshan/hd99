@@ -1,0 +1,13 @@
+{
+    "name": "rongjianshan/hd99",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "rongjianshan",
+            "email": "123885801@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
